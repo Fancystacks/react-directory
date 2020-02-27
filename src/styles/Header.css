@@ -1,9 +1,13 @@
 .header {
     padding: 30px 0;
     color: #ffffff;
-    background-color: #025159;
+    background-color: #69168fb9;
     width: 100%;
+    opacity: .6;
     text-align: center;
-    border-bottom: 5px solid #F28705;
+    border-bottom: 8px double rgba(217, 138, 241, 0.808);
     margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 3px black;
+    letter-spacing: 3px;
 }
